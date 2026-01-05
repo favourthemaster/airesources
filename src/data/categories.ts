@@ -1851,6 +1851,12 @@ export const categories: Category[] = [
           "Various AI tools",
         ],
       },
+      {
+        name: "Lectry",
+        description: "AI-powered learning platform for technology education",
+        link: "https://lectry.app",
+        iconUrl: "https://lectry.app/favicon.ico",
+      },
     ],
   },
   {
